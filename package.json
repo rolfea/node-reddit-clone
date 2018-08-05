@@ -1,0 +1,11 @@
+{
+  "name": "reddit-clone",
+  "version": "1.0.0",
+  "description": "Learning more about node by cloning reddit",
+  "main": "src/server.js)",
+  "scripts": {
+    "test": "export NODE_ENV=test && jasmine"
+  },
+  "author": "",
+  "license": "ISC"
+}
